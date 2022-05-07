@@ -41,10 +41,11 @@ h1{
 }
 
 #btn{
-    padding: 15px 20px;
+    padding: 15px 30px;
     border-radius: 8px;
     font-family: 'Ropa Sans', sans-serif;
     font-weight: bolder;
-    font-size: 20px;
+    font-size: 22px;
     background-color: #ed1846;
+    cursor: pointer;
 }
